@@ -27,10 +27,17 @@ SoundBoard--v1.1.10;
 tidy-ui_game-settings--v0.1.21;
 
 # Imagens
-
+![alt text](gitimgs/fichanave.jpg)
+![alt text](gitimgs/fichanpc.jpg)
+![alt text](gitimgs/fichapc.jpg)
+![alt text](gitimgs/fichapc2.jpg)
+![alt text](gitimgs/fichapc3.jpg)
+![alt text](gitimgs/fichaveiculo.jpg)
+![alt text](gitimgs/itens.jpg)
+![alt text](gitimgs/macromission.jpg)
 
 # Mudanças
-Procure o arquivo CHANGELOG para ver as mudanças.
+Procure o arquivo [CHANGELOG](CHANGELOG.md) para ver as mudanças.
 
 # License
 Impulse Drive by Adrian Thoen and edited by Jim Jacobson is licensed under a Creative Commons Attribution-Share-alike 3.0 Unported License. You can check it out on page 4 from the PDF.
