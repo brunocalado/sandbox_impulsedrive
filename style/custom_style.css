@@ -23,7 +23,7 @@
   color: #000163; /* Change color code, include the hash tag! */
   /* Replace LINK_TO_IMAGE from the web to an image you like for a background or place it in img folder */
   /* Image should be sized on about 720p and not be too heavy */  
-  background: url(img/fundoteste.webp) no-repeat; /* Replace no-repeat with repeat for pattern images 
+  background: url(img/fundo.webp) repeat; /* Replace no-repeat with repeat for pattern images 
   
   overflow-y: auto; /* change between hidden and auto to show vertical scroll bar in sheets. Good for long sheets */
 }
@@ -35,7 +35,7 @@
 }
 
 /* Font control of general text in Foundry in general */
-body {  
+.sandbox.sheet body {  
   font-family: 'Russo One', sans-serif;
   font-size: 12px; /* change only the number! */
 }
@@ -132,13 +132,13 @@ tbody.table {
   font-size: 14px;
 }
 
-textarea {
+.sandbox.sheet textarea {
   font-size: 12px;
   color: #000163; /* Change color code, include the hash tag! */
   font-family: 'Mitr', sans-serif;    
 }
 
-select {
+.sandbox.sheet select {
   background-color: #091a3c;
   font-size: 12px;
   color: #ffffff;

@@ -2,13 +2,22 @@
   "name": "sandbox_impulsedrive",
   "title": "Sandbox - Impulse Drive",
   "description": "<p>Im</p>",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
   "scripts": [],
   "esmodules": [],
   "styles": [],
-  "packs": [],
+  "packs": [
+    {
+      "label": "Contract",
+      "entity": "RollTable",
+      "name": "contract",
+      "path": "packs/contract.db",
+      "system": "sandbox",
+      "package": "world"
+    }
+  ],
   "languages": [],
   "authors": [],
   "keywords": [],

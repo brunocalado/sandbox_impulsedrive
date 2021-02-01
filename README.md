@@ -12,6 +12,23 @@ This world uses Sandbox. It was made in Portuguese. But, it's kind easy to back 
 1. Instale o sistema Sandbox
 2. Instale o mundo com esse link: https://raw.githubusercontent.com/brunocalado/sandbox_impulsedrive/main/world.json
 
+# Lista de Módulos
+chat-images--v2.4.2;
+clocks--v1.3.5;
+dice-so-nice--v3.3.1;
+dice-calculator--v0.6.6;
+fxmaster--v1.0.3;
+journal-to-canvas-slideshow--v0.1.3;
+pdfoundry--v0.8.3;
+permission_viewer--v0.8;
+playlist_import--v1.6.1;
+pt-BR--v1.7.0;
+SoundBoard--v1.1.10;
+tidy-ui_game-settings--v0.1.21;
+
+# Imagens
+
+
 # Mudanças
 Procure o arquivo CHANGELOG para ver as mudanças.
 
