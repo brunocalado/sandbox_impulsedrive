@@ -1,8 +1,8 @@
 {
   "name": "sandbox_impulsedrive",
   "title": "Sandbox - Impulse Drive",
-  "description": "<p>Im</p>",
-  "version": "0.0.4",
+  "description": "Impulse Drive is a system made by Adrian Thoen",
+  "version": "0.0.5",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
   "scripts": [],
@@ -32,7 +32,7 @@
   "background": "",
   "system": "sandbox",
   "coreVersion": "0.7.9",
-  "systemVersion": "0.6.9",
+  "systemVersion": "0.8.6",
   "nextSession": null,
   "availability": 0,
   "unavailable": false
